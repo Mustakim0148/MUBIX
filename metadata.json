@@ -1,0 +1,6 @@
+{
+  "name": "MUBIX",
+  "description": "MUBIX | Indie Games & Apps Studio — Crafting immersive web games and utility apps including MIRZA-RUN, DEKHOO TV, BOWX, MEEKING, and MUDO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
